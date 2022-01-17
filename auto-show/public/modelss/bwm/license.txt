@@ -1,0 +1,11 @@
+Model Information:
+* title:	BWM X2
+* source:	https://sketchfab.com/3d-models/bwm-x2-1d3981fe5e994a29bd338f010348c7a5
+* author:	pewcus-tunbek-4Buvso (https://sketchfab.com/pewcus-tunbek-4Buvso)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BWM X2" (https://sketchfab.com/3d-models/bwm-x2-1d3981fe5e994a29bd338f010348c7a5) by pewcus-tunbek-4Buvso (https://sketchfab.com/pewcus-tunbek-4Buvso) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Porsche 911 C4S 2020 Aerokit
+* source:	https://sketchfab.com/3d-models/porsche-911-c4s-2020-aerokit-ee69c474a1cc4085944cde4cb7ae87db
+* author:	JK3Dstudios (https://sketchfab.com/JK3Dstudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Porsche 911 C4S 2020 Aerokit" (https://sketchfab.com/3d-models/porsche-911-c4s-2020-aerokit-ee69c474a1cc4085944cde4cb7ae87db) by JK3Dstudios (https://sketchfab.com/JK3Dstudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rolls Royce Cullinan
+* source:	https://sketchfab.com/3d-models/rolls-royce-cullinan-61f16a1d5be2403abcdd8fa552f730f7
+* author:	NewViStudios (https://sketchfab.com/newvistudios)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rolls Royce Cullinan" (https://sketchfab.com/3d-models/rolls-royce-cullinan-61f16a1d5be2403abcdd8fa552f730f7) by NewViStudios (https://sketchfab.com/newvistudios) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

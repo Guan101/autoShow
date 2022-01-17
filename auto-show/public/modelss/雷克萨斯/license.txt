@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lexus LC-500
+* source:	https://sketchfab.com/3d-models/lexus-lc-500-3f6118da005a457a9ce6d737e5d1e37d
+* author:	subaru2777 (https://sketchfab.com/subaru2777)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lexus LC-500" (https://sketchfab.com/3d-models/lexus-lc-500-3f6118da005a457a9ce6d737e5d1e37d) by subaru2777 (https://sketchfab.com/subaru2777) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

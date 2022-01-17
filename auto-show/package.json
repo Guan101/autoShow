@@ -1,0 +1,45 @@
+{
+  "name": "car",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@vue/composition-api": "^1.4.1",
+    "axios": "^0.24.0",
+    "core-js": "^3.6.5",
+    "default-passive-events": "^2.0.0",
+    "mitt": "^3.0.0",
+    "moment": "^2.29.1",
+    "multer": "^1.4.4",
+    "path": "^0.12.7",
+    "qrcode.vue": "^3.3.3",
+    "three": "^0.135.0",
+    "vant": "^3.3.7",
+    "vue": "^3.0.0",
+    "vue-axios": "^3.4.0",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vicons/ionicons5": "^0.11.0",
+    "@vicons/utils": "^0.1.4",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "naive-ui": "^2.21.5",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "vfonts": "^0.1.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
